@@ -17,5 +17,7 @@ is called.
   terminal: query, create, comment, attach files.
 - **[gitlab-cli](https://github.com/iamnikolie/gitlab-cli)** — GitLab from the
   terminal: merge requests, pipelines, repo objects, token-lean output.
+- **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
+  terminal: transcripts, search, posting and files.
 
 Go, MIT, no telemetry.
