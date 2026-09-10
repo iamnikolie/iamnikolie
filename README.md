@@ -19,5 +19,8 @@ is called.
   terminal: merge requests, pipelines, repo objects, token-lean output.
 - **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
   terminal: transcripts, search, posting and files.
+- **[svidoq](https://github.com/iamnikolie/svidoq)** — read-only SQL for agents:
+  a parsed allowlist and a read-only transaction, capped results, credentials
+  that never reach the transcript.
 
 Go, MIT, no telemetry.
