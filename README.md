@@ -13,14 +13,22 @@ is called.
 - **[dziga](https://github.com/iamnikolie/dziga)** — turn a video into context an
   LLM can actually read. ffmpeg contact sheets and stills locally, Gemini for what
   stills cannot show.
+- **[exa-cli](https://github.com/iamnikolie/exa-cli)** — Exa web search from the
+  terminal: search, page contents, grounded answers and agent runs.
 - **[fibery-cli](https://github.com/iamnikolie/fibery-cli)** — Fibery from the
   terminal: query, create, comment, attach files.
 - **[gitlab-cli](https://github.com/iamnikolie/gitlab-cli)** — GitLab from the
   terminal: merge requests, pipelines, repo objects, token-lean output.
+- **[mcpcli](https://github.com/iamnikolie/mcpcli)** — any remote MCP server as
+  a CLI: OAuth profiles per account, `key=value` tool calls, one HTTP round trip
+  per call, a generated skill file instead of schemas in every session.
 - **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
   terminal: transcripts, search, posting and files.
 - **[svidoq](https://github.com/iamnikolie/svidoq)** — read-only SQL for agents:
   a parsed allowlist and a read-only transaction, capped results, credentials
   that never reach the transcript.
+- **[wispr-cli](https://github.com/iamnikolie/wispr-cli)** — your Wispr Flow
+  dictations, meeting notes and transcripts from the local database, read-only,
+  exported as Markdown for a vault.
 
 Go, MIT, no telemetry.
