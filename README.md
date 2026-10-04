@@ -17,6 +17,9 @@ is called.
   terminal: search, page contents, grounded answers and agent runs.
 - **[fibery-cli](https://github.com/iamnikolie/fibery-cli)** — Fibery from the
   terminal: query, create, comment, attach files.
+- **[gengoya](https://github.com/iamnikolie/gengoya)** — generate images, video,
+  music and speech from the terminal: OpenAI and Gemini images, Veo and Gemini
+  Omni video, Lyria songs, Gemini TTS. Prints file paths, estimates cost first.
 - **[gitlab-cli](https://github.com/iamnikolie/gitlab-cli)** — GitLab from the
   terminal: merge requests, pipelines, repo objects, token-lean output.
 - **[mcpcli](https://github.com/iamnikolie/mcpcli)** — any remote MCP server as
