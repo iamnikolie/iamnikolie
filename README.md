@@ -29,6 +29,9 @@ is called.
   dedicated Chrome driven over CDP, one shell call per action. Pages as
   markdown, element refs for clicks and forms, what changed after each action,
   console and network errors, screenshots and recordings.
+- **[oolog](https://github.com/iamnikolie/oolog)** — OpenObserve logs from the
+  terminal (it ships no CLI of its own): tail, search, histograms, top values,
+  context around a line, raw SQL, with an SSH tunnel built in.
 - **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
   terminal: transcripts, search, posting and files.
 - **[svidoq](https://github.com/iamnikolie/svidoq)** — read-only SQL for agents:
