@@ -22,6 +22,10 @@ is called.
 - **[mcpcli](https://github.com/iamnikolie/mcpcli)** — any remote MCP server as
   a CLI: OAuth profiles per account, `key=value` tool calls, one HTTP round trip
   per call, a generated skill file instead of schemas in every session.
+- **[oko](https://github.com/iamnikolie/oko)** — a browser for agents: a
+  dedicated Chrome driven over CDP, one shell call per action. Pages as
+  markdown, element refs for clicks and forms, what changed after each action,
+  console and network errors, screenshots and recordings.
 - **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
   terminal: transcripts, search, posting and files.
 - **[svidoq](https://github.com/iamnikolie/svidoq)** — read-only SQL for agents:
