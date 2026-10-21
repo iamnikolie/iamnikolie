@@ -32,6 +32,10 @@ is called.
 - **[oolog](https://github.com/iamnikolie/oolog)** — OpenObserve logs from the
   terminal (it ships no CLI of its own): tail, search, histograms, top values,
   context around a line, raw SQL, with an SSH tunnel built in.
+- **[parallel-cli](https://github.com/iamnikolie/parallel-cli)** — Parallel web
+  research from the terminal: search, page extraction, cited answers, research
+  tasks with per-field citations, batch enrichment, entity lists and monitors.
+  Twin of exa-cli, with a side-by-side comparison.
 - **[slack-cli](https://github.com/iamnikolie/slack-cli)** — Slack from the
   terminal: transcripts, search, posting and files.
 - **[svidoq](https://github.com/iamnikolie/svidoq)** — read-only SQL for agents:
