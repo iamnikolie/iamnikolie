@@ -22,6 +22,9 @@ is called.
   Omni video, Lyria songs, Gemini TTS. Prints file paths, estimates cost first.
 - **[gitlab-cli](https://github.com/iamnikolie/gitlab-cli)** — GitLab from the
   terminal: merge requests, pipelines, repo objects, token-lean output.
+- **[llmspend](https://github.com/iamnikolie/llmspend)** — what your OpenAI and
+  Anthropic orgs used and spent, read-only with admin keys: usage of every kind,
+  billed cost, spend limits, which key belongs to which project and org.
 - **[mcpcli](https://github.com/iamnikolie/mcpcli)** — any remote MCP server as
   a CLI: OAuth profiles per account, `key=value` tool calls, one HTTP round trip
   per call, a generated skill file instead of schemas in every session.
