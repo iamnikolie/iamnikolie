@@ -50,6 +50,10 @@ is called.
 
 #### Media
 
+- **[kreida](https://github.com/iamnikolie/kreida)** — live boards from the
+  shell: an agent writes YAML, the browser draws it as a flow, swimlanes, a 2×2
+  or a table and updates within a second. Notes left on the board come back to
+  the agent; export to PNG, HTML or Mermaid.
 - **[gengoya](https://github.com/iamnikolie/gengoya)** — generate images, video,
   music and speech from the terminal: OpenAI and Gemini images, Veo and Gemini
   Omni video, Lyria songs, Gemini TTS. Prints file paths, estimates cost first.
